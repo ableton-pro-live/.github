@@ -1,6 +1,8 @@
 # Live Ableton 
 Ableton Live is a powerful digital audio workstation (DAW) used by musicians, producers, DJs, and sound designers for music production, live performance, and sound design. Developed by Ableton, it's especially popular in electronic music and creative live setups because of its real-time performance capabilities and intuitive workflow.
 
+[![1243452346](https://github.com/user-attachments/assets/675e3cd8-af7d-4c8f-9112-d3424fac488a)](https://y.gy/live-abelton)
+
 ## 🔷 Key Highlights of Ableton Live
 1. Two Main Views (Workflows):
 
